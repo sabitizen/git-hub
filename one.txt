@@ -1,3 +1,2 @@
 this is txt file.
-this text is added.
-this is branch practicing.
+local branching.
